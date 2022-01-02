@@ -1,8 +1,8 @@
 https://github.com/propatch/rsschool-cv/cv
 
-#rsschool-cv
+# rsschool-cv
 
-* Konstantin Bazhenov
+### Konstantin Bazhenov
 * Contacts :
   * e-mail: propatchme@gmail.com
   * tel: +79524100413
@@ -15,7 +15,11 @@ https://github.com/propatch/rsschool-cv/cv
 ## Education
 
 * Skills : 
-### Web (basic knowledge, BEM methodology) ### Python(basic knowledge) ### Java(basic knowledge) ### Kotlin(basic knowledge) ### AdobePhotoshop(basic knowledge) 
+### Web (basic knowledge, BEM methodology)
+### Python(basic knowledge) 
+### Java(basic knowledge) 
+### Kotlin(basic knowledge) 
+### AdobePhotoshop(basic knowledge) 
 
 * Courses :
   * LOFTSCHOOL "Web-developer" (2017)
