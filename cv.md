@@ -2,10 +2,10 @@ https://propatch.github.io/rsschool-cv/cv
 
 ---
 
-### Konstantin Bazhenov
+>### Konstantin Bazhenov
 
 <p>
-    <img src="img/avatar-user.png" width="150" height="200", alt="Иллюстрация" align="left" vspace="5" hspace="20">
+    <img src="img/avatar-user.png" width="200" height="200", alt="Иллюстрация" align="left" vspace="5" hspace="20">
 </p>
 
 
@@ -83,7 +83,11 @@ GROUP BY countries1.name;
 **Site with my works** [propatch.ru](http://propatch.ru/)   
 > Freelancer ( since 2017 )
 
-> Senior engineers of the Department ofCommunications Computing and Special  Equipment ( since 2013 )
+> Senior engineers of the Department of Communications Computing and Special  Equipment ( since 2021 )
+
+> Team Leader of the department of automated processing and accounting of information ( since 2014 )
+
+> Engineer of the department of automated processing and accounting of information ( since 2013 )
 
 ### Languages
 `Russian and English (A2)`
