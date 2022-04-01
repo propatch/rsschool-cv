@@ -1,4 +1,2 @@
-# rsschool-cv
+https://propatch.github.io/rsschool-cv/cv
 
-https://github.com/propatch/rsschool-cv/cv
-https://github.com/propatch/rsschool-cv/
