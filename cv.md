@@ -2,7 +2,7 @@ https://propatch.github.io/rsschool-cv/cv
 
 ---
 
->### Konstantin Bazhenov
+## Konstantin Bazhenov
 
 <p>
     <img src="img/avatar-user.png" width="200" height="200", alt="Иллюстрация" align="left" vspace="5" hspace="20">
@@ -22,7 +22,7 @@ Graduated from the Faculty of Autonomous Control Systems in 2009. After 5 years 
 |instagram   |  [`propatch.it`](https://www.instagram.com/propatch.it)          |
 | discord    |  `propatch#0646`      |
 
-#### **Editors**
+### **Editors**
 
 ![VSCode](/img/Visual_Studio_Code_1.35_icon.svg.ico)
 ![IntelliJ IDEA](/img/IntelliJ_IDEA_Icon.svg.ico)
