@@ -16,14 +16,13 @@ https://github.com/propatch/rsschool-cv/cv
 
 #### **Contact information**
 
-| |  |
+|         |         |
 |---------|---------|
 |e-mail:     | `propatchme@gmail.com`|
 |tel:        | `+79604705550`        |
 |telegram:   | `propatchru`          |
 |instagram   |  [`propatch.it`](https://www.instagram.com/propatch.it)          |
 | discord    |  `propatch#0646`      |
-|
 
 #### **Editors**
 
@@ -31,17 +30,15 @@ https://github.com/propatch/rsschool-cv/cv
     :::column:::
         ![VSCode](/img/Visual_Studio_Code_1.35_icon.svg.ico)
         ![IntelliJ IDEA](/img/IntelliJ_IDEA_Icon.svg.ico)
-        ![Android SDK](/img/Android-Studio-Logo.ico)
         ![ubuntu OS](img/OS-Ubuntu.ico)
+        ![Android SDK](/img/Android-Studio-Logo.ico)
     :::column-end:::
     :::column:::
         `using the Pop_OS/Ubuntu`
 
-        `VSCode`
-        `Android SDK`
-        `IntelliJ IDEA`
-        
-
+        **`VSCode`**
+        **`Android SDK`**
+        **`IntelliJ IDEA`**
     :::column-end:::
 :::row-end:::
 
@@ -94,8 +91,6 @@ GROUP BY countries1.name;
 > Freelancer ( since 2017 )
 
 > Senior engineers of the Department ofCommunications Computing and Special  Equipment ( since 2013 )
-
-codewars  
 
 ### Languages
 `Russian and English (A2)`
