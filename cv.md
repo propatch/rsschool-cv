@@ -1,13 +1,27 @@
-https://github.com/propatch/rsschool-cv/cv
-
-
+https://propatch.github.io/rsschool-cv/cv
 
 
 :::row:::
+   :::column span="2":::
+      **This is a 2-span column with lots of text.**
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum mollis nunc
+      ornare commodo. Nullam ac metus imperdiet, rutrum justo vel, vulputate leo. Donec
+      rutrum non eros eget consectetur.
+   :::column-end:::
+   :::column span="":::
+      **This is a single-span column with an image in it.**
+
+      ![Doc.U.Ment](media/markdown-reference/document.png)
+   :::column-end:::
+:::row-end:::
+
+:::row:::
     :::column:::
-        > ### Konstantin Bazhenov
+        ### Konstantin Bazhenov
         =========================
         ### Developer - Kotlin / JS
+        Graduated from the Faculty of Autonomous Control Systems in 2009. After 5 years of wandering ... fate brought me to the computer. Now with him on "you".
     :::column-end:::
     :::column:::
         :::image type="content" source="img/avatar-user.png" alt-text="Avatar":::
@@ -87,7 +101,7 @@ GROUP BY countries1.name;
 
 ### Experience
 
-[**Site with my works propatch.ru**](http://propatch.ru/)   
+**Site with my works** [propatch.ru](http://propatch.ru/)   
 > Freelancer ( since 2017 )
 
 > Senior engineers of the Department ofCommunications Computing and Special  Equipment ( since 2013 )
