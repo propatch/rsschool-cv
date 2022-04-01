@@ -1,32 +1,16 @@
 https://propatch.github.io/rsschool-cv/cv
 
+---
 
-:::row:::
-   :::column span="2":::
-      **This is a 2-span column with lots of text.**
+### Konstantin Bazhenov
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum mollis nunc
-      ornare commodo. Nullam ac metus imperdiet, rutrum justo vel, vulputate leo. Donec
-      rutrum non eros eget consectetur.
-   :::column-end:::
-   :::column span="":::
-      **This is a single-span column with an image in it.**
+<p>
+    <img src="img/avatar-user.png" width="150" height="200", alt="Иллюстрация" align="left" vspace="5" hspace="20">
+</p>
 
-      ![Doc.U.Ment](media/markdown-reference/document.png)
-   :::column-end:::
-:::row-end:::
 
-:::row:::
-    :::column:::
-        ### Konstantin Bazhenov
-        =========================
-        ### Developer - Kotlin / JS
-        Graduated from the Faculty of Autonomous Control Systems in 2009. After 5 years of wandering ... fate brought me to the computer. Now with him on "you".
-    :::column-end:::
-    :::column:::
-        :::image type="content" source="img/avatar-user.png" alt-text="Avatar":::
-    :::column-end:::
-:::row-end:::
+### Developer - Kotlin / JS
+Graduated from the Faculty of Autonomous Control Systems in 2009. After 5 years of wandering ... fate brought me to the computer. Now with him on "you".
 
 #### **Contact information**
 
@@ -40,21 +24,16 @@ https://propatch.github.io/rsschool-cv/cv
 
 #### **Editors**
 
-:::row:::
-    :::column:::
-        ![VSCode](/img/Visual_Studio_Code_1.35_icon.svg.ico)
-        ![IntelliJ IDEA](/img/IntelliJ_IDEA_Icon.svg.ico)
-        ![ubuntu OS](img/OS-Ubuntu.ico)
-        ![Android SDK](/img/Android-Studio-Logo.ico)
-    :::column-end:::
-    :::column:::
-        `using the Pop_OS/Ubuntu`
+![VSCode](/img/Visual_Studio_Code_1.35_icon.svg.ico)
+![IntelliJ IDEA](/img/IntelliJ_IDEA_Icon.svg.ico)
+![ubuntu OS](img/OS-Ubuntu.ico)
+![Android SDK](/img/Android-Studio-Logo.ico)
 
-        **`VSCode`**
-        **`Android SDK`**
-        **`IntelliJ IDEA`**
-    :::column-end:::
-:::row-end:::
+`using the Pop_OS/Ubuntu`
+**`VSCode`**
+**`Android SDK`**
+**`IntelliJ IDEA`**
+
 
 ### Education
 > Epam RSSchool (2022), **"Web-developer"**
