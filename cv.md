@@ -4,11 +4,6 @@ https://propatch.github.io/rsschool-cv/cv
 
 ## Konstantin Bazhenov
 
-<p>
-    <img src="img/avatar-user.png" width="200" height="200", alt="Иллюстрация" align="left" vspace="5" hspace="20">
-</p>
-
-
 ### Developer - Kotlin / JS
 Graduated from the Faculty of Autonomous Control Systems in 2009. After 5 years of wandering ... fate brought me to the computer. Now with him on "you".
 
