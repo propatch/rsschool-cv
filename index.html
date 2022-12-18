@@ -4,9 +4,96 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="assets/images/favicon.ico">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
     <title>propatch</title>
 </head>
 <body>
-    <p>Its my first page</p>
+    <header>
+        <div class="about">
+            <p>Developer - JAVA / JS</p>
+            <p>Graduated from the Faculty of Autonomous Control Systems in 2009. After 5 years of wandering ...
+                fate brought me to the computer. Now with him on "you".</p>
+        </div>
+    </header>
+    <main>
+        <div class="name">Konstantin Bazhenov</div>
+        <div class="contact">
+            |e-mail:     | `propatchme@gmail.com`|
+            |tel:        | `+79604705550`        |
+            |telegram:   | `propatchru`          |
+            |instagram   |  [`propatch.it`](https://www.instagram.com/propatch.it)          |
+            | discord    |  `propatch#0646`      |
+
+        </div>
+        <div class="editor">
+            `using the Pop_OS/Ubuntu`
+            **`VSCode`**
+            **`Android SDK`**
+            **`IntelliJ IDEA`**
+
+        </div>
+        <div class="education">
+            > Epam RSSchool (2022), **"Web-developer"**
+
+            > WebHeroSchool(2020), **"Freelance"**
+
+            > LoftSchool (2017), **"Web-developer"**
+
+            > Rostov Military Institute of Rocket Troops, Control and informatics in technical systems (2004 - 2009), **"Engineer"**
+        </div>
+        <div class="skill">
+            > NodeJS
+            > JAVA
+            > SQL
+
+        </div>
+        <div class="code-example">
+            <p> SELECT name, ifnull((
+                SELECT count (id)
+                FROM companies1
+                 WHERE companies1.city_id in (
+                    SELECT cities1.id  
+                        FROM cities1
+                         WHERE cities1.id = countries1.id AND companies1.labors >= 1000 
+                 )
+            ),0) as COUNTCOMPANIES
+            FROM countries1
+            GROUP BY countries1.name;
+            
+            SELECT countries1.name, count(*) as COUNTCOMPANIES
+             FROM countries1
+                LEFT JOIN cities1 ON countries1.id = cities1.country_id
+                LEFT JOIN companies1 ON cities1.id = companies1.city_id
+                    WHERE companies1.labors >= 1000
+            GROUP BY countries1.name;</p>
+        </div>
+        <div class="experience">
+            **Site with my works** [propatch.ru](http://propatch.ru/)   
+> Freelancer ( since 2017 )
+
+> Senior engineers of the Department of Communications Computing and Special  Equipment ( since 2021 )
+
+> Team Leader of the department of automated processing and accounting of information ( since 2014 )
+
+> Engineer of the department of automated processing and accounting of information ( since 2013 )
+        </div>
+        <div class="language">
+            `Russian and English (A2)`
+        </div>
+
+
+    </main>
+    <footer>
+        <div class="site">
+            **Site with my works** [propatch.ru](http://propatch.ru/) 
+        </div>
+        <a href="http://https://github.com/propatch/rsschool-cv">
+            <img alt="github" src="/assets/images/Github-icon.png"> 
+         </a>
+    </footer>
+    
+
 </body>
 </html>
