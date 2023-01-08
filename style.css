@@ -1,6 +1,19 @@
  body {
-    background: #2b7671;
-    background: -webkit-linear-gradient(to top right, #2b7671 15%, #21a9e3 81%);
-    background: -moz-linear-gradient(to top right, #2b7671 15%, #21a9e3 81%);
-    background: linear-gradient(to top right, #2b7671 15%, #21a9e3 81%);
+    background: #22eb4479;
+    /* background: -webkit-linear-gradient(to top right, #62dfa0 15%, #22eb4479 18%);
+    background: -moz-linear-gradient(to top right, #62dfa0 15%, #22eb4479 18%);
+    background: linear-gradient(to top right, #62dfa0 15%, #22eb4479 18%); */
  }
+
+ 
+ body {
+     font-family: "Raleway", sans-serif
+ }
+
+ div {
+   margin-left: auto;
+   margin-right: auto;
+   width: 70em;
+   border: 1px #f00 dotted;
+ }
+
